@@ -12,6 +12,7 @@ public class net1 {
     public static void main(String[] args)  {
 
         try {
+            int r = 5;
             InetAddress Address = InetAddress.getLocalHost();
             System.out.println(Address);
 

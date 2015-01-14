@@ -13,7 +13,7 @@ public class net1 {
 
         try {
             int r = 5;
-            int f = 6;
+            int f = 12;
             InetAddress Address = InetAddress.getLocalHost();
             System.out.println(Address);
 

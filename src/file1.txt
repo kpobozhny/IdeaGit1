@@ -2,3 +2,4 @@ commit A
 commit B
 commit F
 commit E
+commit 12

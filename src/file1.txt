@@ -3,7 +3,7 @@ commit B
 commit C
 commit D
 commit F
-commit E
+commit 22E
 commit 12
 commit 13
 commit 21
@@ -12,6 +12,7 @@ commit 10
 commit 11
 commit 23
 commit 24
+new commit
 --------
 commit 31
 commit 32
